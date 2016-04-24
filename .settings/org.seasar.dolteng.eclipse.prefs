@@ -1,0 +1,9 @@
+DaoType=S2JDBC
+DefaultResourcePath=/Board/src/main/resources
+DefaultRootPackage=board
+DefaultSrcPath=/Board/src/main/java
+OrmXmlOutputPath=/Board/src/main/webapp/WEB-INF
+ServletPath=/Board
+ViewType=SA-Struts
+WebContentsRoot=src/main/webapp/
+eclipse.preferences.version=1

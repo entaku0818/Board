@@ -1,0 +1,26 @@
+ul.pager {
+      margin: 10px;
+      list-style: none;
+}
+ul.pager li {
+      float: left;
+      margin-right: 10px;
+      padding-right: 10px;
+      border-right: 1px #999999 solid;
+}
+ul.pager li.next {
+      border-right: none;
+}
+ul.pager li a:link,
+ul.pager li a:visited {
+      color: #3366FF;
+      text-decoration: none;
+}
+ul.pager li a:hover,
+ul.pager li a:active {
+      color: #ff8135;
+      text-decoration: underline;
+}
+ul.pager li em {
+      font-weight: bold;
+}

@@ -1,0 +1,1 @@
+INSERT INTO MyTest.Board VALUES (1,'遠藤','アルゼンチン優勝！','2015-06-30 09:00:00');
